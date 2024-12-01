@@ -1,0 +1,12 @@
+name: project-bond-env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.12
+  - scikit-learn
+  - seaborn
+  - jupyterlab
+prefix: /Users/dtimar/opt/miniconda3/envs/project-bond-env
